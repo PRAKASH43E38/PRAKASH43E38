@@ -6,7 +6,7 @@
 
 </div>
 
-```python
+python
 class Prakash:
     def __init__(self):
         self.name = "Prakash R"
@@ -16,9 +16,8 @@ class Prakash:
         self.currently_learning = ["NumPy", "Pandas", "Machine Learning", "Agentic AI", "DSA"]
         self.fun_fact = "Building a personal AI assistant called JARVIS with voice, memory & agentic skills"
 
-    def motto(self):
+def motto(self):
         return "Struggle first, understand deeply, build relentlessly."
-```
 
 ### 🛠️ Tech Stack
 
