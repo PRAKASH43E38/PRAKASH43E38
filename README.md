@@ -6,6 +6,7 @@
 
 </div>
 
+```
 python
 class Prakash:
     def __init__(self):
@@ -18,6 +19,8 @@ class Prakash:
 
 def motto(self):
         return "Struggle first, understand deeply, build relentlessly."
+
+```
 
 ### 🛠️ Tech Stack
 
